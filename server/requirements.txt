@@ -2,7 +2,7 @@ asn1crypto==1.2.0
 certifi==2019.9.11
 cffi==1.13.1
 Click==7.0
-cryptography==2.8
+cryptography==3.2
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.0
 idna==2.8
